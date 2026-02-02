@@ -1,42 +1,7 @@
 .name{color:aliceblue;}
 .made{text-align: center;}
 body{background-color: darkolivegreen;}
-.nav {
-  list-style: none;
-  display: flex;
-  margin: 0;
-  padding: 0;
-  gap: 2.5rem;
-}
 
-.nav li a {
-  color: #a0a58e; /* Svetlejšia olivová pre text */
-  text-decoration: none;
-  font-size: 0.85rem;
-  font-weight: 400;
-  transition: all 0.3s ease;
-  position: relative;
-}
-
-/* Elegantný efekt podčiarknutia pri hoveri */
-.nav li a::after {
-  content: '';
-  position: absolute;
-  width: 0;
-  height: 1px;
-  bottom: -5px;
-  left: 0;
-  background-color: #c5a059;
-  transition: width 0.3s ease;
-}
-
-.nav li a:hover {
-  color: #ffffff;
-}
-
-.nav li a:hover::after {
-  width: 100%;
-}
 .elegance{
       display: flex;
       justify-content: space-between;
