@@ -11,8 +11,6 @@ body{background-color: darkolivegreen;}
       border-bottom: 2px solid #3e4428;
       font-family: 'Montserrat', sans-serif;
       letter-spacing: 1px;
-
-  /* PRIDANÉ PRE FIXNÝ NAVBAR */
       position: sticky;
       top: 0;
       z-index: 1000
