@@ -15,3 +15,17 @@ body{background-color: darkolivegreen;}
       top: 0;
       z-index: 1000
 }
+
+.dropdown-nav{
+      background-color: #3e4428;
+      color:aliceblue;
+}
+
+.nabor{
+      background-color: #3e4428;
+      color:aliceblue;
+}
+
+.button{
+      background-color:#3e4428;
+}
