@@ -13,19 +13,27 @@ body{background-color: darkolivegreen;}
       letter-spacing: 1px;
       position: sticky;
       top: 0;
-      z-index: 1000
+      z-index: 1000;
 }
 
-.dropdown-nav{
+.dropdown-nav a{
       background-color: #3e4428;
       color:aliceblue;
+      text-decoration: none;
+      display: block;
 }
 
 .nabor{
       background-color: #3e4428;
       color:aliceblue;
+      ;
 }
 
 .button{
       background-color:#3e4428;
+}
+
+.info{
+      background-color:#3e4428;
+      color: aliceblue;
 }
